@@ -4,7 +4,7 @@
 # theme = "hugo-creative-portfolio-theme"
 # style = "default"
 
-baseurl = "https://example.org/"
+baseurl = "https://elianorapace.github.io"
 title = "エリアノーラパーチェ ~轍田中~"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja-jp"
