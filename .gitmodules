@@ -1,3 +1,12 @@
 [submodule "elianorapace/themes/hugrid"]
 	path = elianorapace/themes/hugrid
 	url = https://github.com/aerohub/hugrid.git
+[submodule "elianorapace/themes/theme/hugo-creative-portfolio-theme"]
+	path = elianorapace/themes/theme/hugo-creative-portfolio-theme
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+[submodule "elianorapace/themes/themes/hugo-creative-portfolio-theme"]
+	path = elianorapace/themes/themes/hugo-creative-portfolio-theme
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+[submodule "elianorapace/themes/hugo-creative-portfolio-theme"]
+	path = elianorapace/themes/hugo-creative-portfolio-theme
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
