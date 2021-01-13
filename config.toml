@@ -63,9 +63,9 @@ canonifyurls = true
   name = "Member"
   url = "member/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  # [[params.navlinks]]
+  # name = "Get in touch"
+  # url = "contact/"
 
   [params.social]
 #   facebook      = "full page or profile url in facebook"
