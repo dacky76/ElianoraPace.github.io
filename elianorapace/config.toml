@@ -4,7 +4,7 @@
 # theme = "hugo-creative-portfolio-theme"
 # style = "default"
 
-baseurl = "https://ElianoraPace.github.io"
+baseurl = "https://elianorapace.github.io"
 title = "エリアノーラパーチェ ~轍田中~"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja-jp"
@@ -14,7 +14,7 @@ disqusShortname = ""
 googleAnalytics = ""
 
 publishDir = "docs"
-canonifyurls = true
+# canonifyurls = true
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
